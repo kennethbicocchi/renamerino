@@ -32,13 +32,14 @@ Navigate to the project folder (cd Renamerino).
 (Optional) If you plan to install any extra packages (like pyinstaller), you can do so with pip install <package-name>.
 Usage:
 
-Run the Python script by typing: python renamerino.py
-The GUI window will appear:
-Select Folder: choose the directory containing your files.
-Prefix: enter a custom prefix (e.g., ProjectA, Images, etc.).
-Include current date: check this if you want a date (YYYYMMDD) in each filename.
-Rename Files: click this button to rename the files in place.
-Examples:
+**Run the Python script by typing: python renamerino.py
+**The GUI window will appear:
+**Select Folder: choose the directory containing your files.
+**Prefix: enter a custom prefix (e.g., ProjectA, Images, etc.).
+**Include current date: check this if you want a date (YYYYMMDD) in each filename.
+**Rename Files: click this button to rename the files in place.
+
+## Examples:
 
 Without date: if your prefix is MyDocs and you have .txt, .docx, .jpg files, you might get: MyDocs_1.txt MyDocs_2.txt MyDocs_1.docx MyDocs_2.docx MyDocs_1.jpg ...and so on for each extension.
 With date: if today is 2025-03-24 and you checked "Include current date," you would get: MyDocs_20250324_1.txt MyDocs_20250324_2.txt MyDocs_20250324_1.docx etc.
