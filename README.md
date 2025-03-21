@@ -4,6 +4,8 @@ https://buymeacoffee.com/kennethbicocchi
 ## Renamerino
 The renaming experience
 
+Introducing Renamerino – the ultimate file renaming powerhouse! With just one click, transform your clutter into organized perfection. Select your folder, add your custom prefix, and watch Renamerino blast each file into order with its auto-numbering magic. Get ready to rock your file system
+
 ## Why we need Renamerino
 Renamerino is the European answer to Silicon Valley. 
 Thanks to this project, we european can consider ourselves finally emancipated. 
