@@ -3,8 +3,13 @@ The renaming experience
 
 ## Experience the beautiful minimal design
 
-oh boy....
+oh boy...
+
 ![images/renamerino_screenshot.png](https://github.com/kennethbicocchi/renamerino/blob/main/renamerino1.png)
+
+experience its power!
+
+!![images/renamerino_screenshot.png](https://github.com/kennethbicocchi/renamerino/blob/main/renamerino2.png)
 
 ## How it works
 
