@@ -1,7 +1,10 @@
 ## Renamerino
 The renaming experience
 
+## Experience the beautiful minimal design
 
+oh boy....
+![Renamerino screenshot]([images/renamerino_screenshot.png](https://github.com/kennethbicocchi/renamerino/blob/main/renamerino1.png?raw=true))
 
 ## How it works
 
