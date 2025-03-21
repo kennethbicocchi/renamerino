@@ -4,7 +4,7 @@ The renaming experience
 ## Experience the beautiful minimal design
 
 oh boy....
-[images/renamerino_screenshot.png](https://github.com/kennethbicocchi/renamerino/blob/main/renamerino1.png)
+![images/renamerino_screenshot.png](https://github.com/kennethbicocchi/renamerino/blob/main/renamerino1.png)
 
 ## How it works
 
