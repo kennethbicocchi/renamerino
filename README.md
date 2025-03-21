@@ -21,6 +21,7 @@ experience its power!
    - The application scans each file in the selected folder.
    - It counts files by extension (.txt, .jpg, etc.) and applies a separate numeric sequence.
    - It renames the files to `<prefix>_YYYYMMDD_#` or `<prefix>_#`, depending on user choices.
+   - You don't want dates? So Rnamerino doesn't want dates. Renamerino cares about what YOU care. 
 6. **Done**: A confirmation message pops up, and the files have new names!
 
 ## This seems cool! But.... how do I get it?!
