@@ -15,7 +15,7 @@ The renaming experience
    - It renames the files to `<prefix>_YYYYMMDD_#` or `<prefix>_#`, depending on user choices.
 6. **Done**: A confirmation message pops up, and the files have new names!
 
-##This seems cool! But.... how do I get it?!
+## This seems cool! But.... how do I get it?!
 
 Install Python (3.x or higher) with Tkinter support.
 Clone or download the repository (for example: git clone https://github.com/kennethbicocchi/Renamerino.git).
