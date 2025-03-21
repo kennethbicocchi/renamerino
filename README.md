@@ -1,6 +1,12 @@
 ## Renamerino
 The renaming experience
 
+## Why we need Renamerino
+Renamerino is the European answer to Silicon Valley. 
+Thanks to this project, we european can consider ourselves finally emancipated. 
+This is soooo Silicon Valley already! Really, look out of the window now! Can't you see the palm trees? We're already Silicon Valley now. 
+Thanks Renamerino. 
+
 ## Experience the beautiful minimal design
 
 oh boy...
