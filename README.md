@@ -32,12 +32,12 @@ Navigate to the project folder (cd Renamerino).
 (Optional) If you plan to install any extra packages (like pyinstaller), you can do so with pip install <package-name>.
 Usage:
 
-**Run the Python script by typing: python renamerino.py
-**The GUI window will appear:
-**Select Folder: choose the directory containing your files.
-**Prefix: enter a custom prefix (e.g., ProjectA, Images, etc.).
-**Include current date: check this if you want a date (YYYYMMDD) in each filename.
-**Rename Files: click this button to rename the files in place.
+1. Run the Python script by typing: python renamerino.py
+2. The GUI window will appear:
+3. Select Folder: choose the directory containing your files.
+4. Prefix: enter a custom prefix (e.g., ProjectA, Images, etc.).
+5. Include current date: check this if you want a date (YYYYMMDD) in each filename.
+6. Rename Files: click this button to rename the files in place.
 
 ## Examples:
 
