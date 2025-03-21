@@ -1,7 +1,7 @@
 ## Renamerino
 The renaming experience
 
-Renamerino is a simple automatic file renaming tool built with Python and Tkinter. It allows you to:
+
 
 ## How it works
 
@@ -15,17 +15,7 @@ Renamerino is a simple automatic file renaming tool built with Python and Tkinte
    - It renames the files to `<prefix>_YYYYMMDD_#` or `<prefix>_#`, depending on user choices.
 6. **Done**: A confirmation message pops up, and the files have new names!
 
-Select a folder with the files you want to rename.
-Provide a custom prefix.
-Optionally include the current date (in YYYYMMDD format) in each filename.
-Use separate counters for each file extension (e.g., .txt, .pdf, .jpg each get their own sequence).
-Features:
-
-GUI-based interface: no command line needed – just click and rename!
-Extension-aware counting: each file type (.txt, .jpg, .pdf, etc.) has its own incrementing sequence.
-Conflict detection: if a file with the new name already exists, the tool will skip that file.
-Cross-platform source: the Python script runs on Windows/Mac/Linux, as long as Python and Tkinter are installed.
-Installation:
+##This seems cool! But.... how do I get it?!
 
 Install Python (3.x or higher) with Tkinter support.
 Clone or download the repository (for example: git clone https://github.com/kennethbicocchi/Renamerino.git).
