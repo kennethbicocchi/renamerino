@@ -46,6 +46,10 @@ Usage:
 5. Include current date: check this if you want a date (YYYYMMDD) in each filename.
 6. Rename Files: click this button to rename the files in place.
 
+##  Are you happy now? You Should. 
+Now buy me this coffee:
+buymeacoffee.com/kennethbicocchi
+
 ## Examples:
 
 Without date: if your prefix is MyDocs and you have .txt, .docx, .jpg files, you might get: MyDocs_1.txt MyDocs_2.txt MyDocs_1.docx MyDocs_2.docx MyDocs_1.jpg ...and so on for each extension.
