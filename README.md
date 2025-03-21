@@ -29,7 +29,9 @@ experience its power!
 
 First of all, watch your mouth: Renamerino IS the coolest thing ever invented by nature. 
 
-It doesn't "Seem" cool. It is. 
+It doesn't "Seem" cool. 
+It is. 
+
 Install Python (3.x or higher) with Tkinter support.
 Clone or download the repository (for example: git clone https://github.com/kennethbicocchi/Renamerino.git).
 Navigate to the project folder (cd Renamerino).
