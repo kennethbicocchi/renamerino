@@ -9,7 +9,7 @@ oh boy...
 
 experience its power!
 
-!![images/renamerino_screenshot.png](https://github.com/kennethbicocchi/renamerino/blob/main/renamerino2.png)
+![images/renamerino_screenshot.png](https://github.com/kennethbicocchi/renamerino/blob/main/renamerino2.png)
 
 ## How it works
 
