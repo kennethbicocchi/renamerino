@@ -1,3 +1,6 @@
+buy me a coffee:
+https://buymeacoffee.com/kennethbicocchi
+
 ## Renamerino
 The renaming experience
 
