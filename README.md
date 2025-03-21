@@ -61,6 +61,8 @@ Usage:
 Now buy me this coffee:
 https://buymeacoffee.com/kennethbicocchi
 
+![bmc_qr (2)](https://github.com/user-attachments/assets/5daed42c-f5d5-4838-97bb-bc052b5a8e6c)
+
 I LOVE not being poor! It's my favourite thing after Renamerino!
 
 ## Examples:
