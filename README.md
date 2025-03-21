@@ -1,4 +1,5 @@
-Renamerino
+## Renamerino
+The renaming experience
 
 Renamerino is a simple automatic file renaming tool built with Python and Tkinter. It allows you to:
 
